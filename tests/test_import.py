@@ -6,7 +6,9 @@ from pytest import raises, approx
 
 def test():
     import func_args
-    pass
+
+    _ = func_args.NOTHING
+    _ = func_args.resolve_kwargs()
 
 
 if __name__ == "__main__":
