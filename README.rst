@@ -1,8 +1,4 @@
 
-.. image:: https://readthedocs.org/projects/func_args/badge/?version=latest
-    :target: https://func_args.readthedocs.io/index.html
-    :alt: Documentation Status
-
 .. image:: https://github.com/MacHu-GWU/func_args-project/workflows/CI/badge.svg
     :target: https://github.com/MacHu-GWU/func_args-project/actions?query=workflow:CI
 
@@ -22,13 +18,6 @@
     :target: https://github.com/MacHu-GWU/func_args-project
 
 ------
-
-
-.. image:: https://img.shields.io/badge/Link-Document-blue.svg
-    :target: https://func_args.readthedocs.io/index.html
-
-.. image:: https://img.shields.io/badge/Link-API-blue.svg
-    :target: https://func_args.readthedocs.io/py-modindex.html
 
 .. image:: https://img.shields.io/badge/Link-Source_Code-blue.svg
     :target: https://func_args.readthedocs.io/py-modindex.html
@@ -52,7 +41,7 @@
 Welcome to ``func_args`` Documentation
 ==============================================================================
 
-Documentation for ``func_args``.
+``func_args`` is a library that can help you create a wrapper function with key word arguments, type hint on top of an existing third party function with ugly API design. `See example <https://github.com/MacHu-GWU/func_args-project/blob/main/examples/example.ipynb>`_.
 
 
 .. _install:
